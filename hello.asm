@@ -28,8 +28,8 @@ sine_loop
             push hl
 
             rst 0x28  ; enter floating point calculator
-            ; increment t by pi/64
-            db CALC_CONST, 0x2b, 0x49    ;const pi/128 (ish)
+            ; increment t by pi/128
+            db CALC_CONST, 0x2b, 0x49    ; const pi/128 (ish)
             db CALC_ADDITION
             ; calculate int(sin(t) * 90)
             db CALC_DUPLICATE
