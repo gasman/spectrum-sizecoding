@@ -3,6 +3,8 @@ ZX Spectrum sizecoding
 
 Resources from my seminar at [Lovebyte 2021](http://www.lovebyte.party/).
 
+[Seminar on YouTube](https://www.youtube.com/watch?v=q0cnGaa-Rig)
+
 Essential tools
 ---------------
 * [Fuse](http://fuse-emulator.sourceforge.net/) - ZX Spectrum emulator for Unix, Mac OS and Windows
